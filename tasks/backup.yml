@@ -1,0 +1,5 @@
+sudo gitlab-backup create
+
+
+    /etc/gitlab/gitlab-secrets.json
+    /etc/gitlab/gitlab.rb
